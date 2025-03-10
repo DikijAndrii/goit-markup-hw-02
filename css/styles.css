@@ -1,0 +1,90 @@
+body {
+  font-family: "Roboto" sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+.header-logo {
+  font-weight: 700;
+  font-family: "Raleway" sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-text {
+  color: #2e2f42;
+}
+.navigation {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.navigation:focus,
+.navigation:hover {
+  color: #404bbf;
+}
+
+.contacts {
+  font-style: normal;
+}
+.contacts-mail-tel {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contacts-mail-tel:hover,
+.contacts-mail-tel:focus {
+  color: #404bbf;
+}
+.main {
+  background-color: #2e2f42;
+}
+.main-header {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.btn-header {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+.btn-header:hover,
+.btn-header:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+.strategy-header {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.informations-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.team-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
