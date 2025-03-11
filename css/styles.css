@@ -64,7 +64,7 @@ body {
   background-color: #404bbf;
   cursor: pointer;
 }
-.strategy-header {
+.informations-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -87,4 +87,32 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+.our-team {
+  background-color: #ffffff;
+}
+.footer-info {
+  background-color: #2e2f42;
+}
+.header-logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+.footer-logo {
+  color: #f4f4fd;
+}
+.footer-p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
